@@ -1,0 +1,19 @@
+C:\Users\Samuel Ferreira\source\repos\GerarExcel\GerarExcel\bin\Debug\GerarExcel.exe.config
+C:\Users\Samuel Ferreira\source\repos\GerarExcel\GerarExcel\bin\Debug\GerarExcel.exe
+C:\Users\Samuel Ferreira\source\repos\GerarExcel\GerarExcel\bin\Debug\GerarExcel.pdb
+C:\Users\Samuel Ferreira\source\repos\GerarExcel\GerarExcel\bin\Debug\EPPlus.dll
+C:\Users\Samuel Ferreira\source\repos\GerarExcel\GerarExcel\bin\Debug\EPPlus.xml
+C:\Users\Samuel Ferreira\source\repos\GerarExcel\GerarExcel\obj\Debug\GerarExcel.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Ferreira\source\repos\GerarExcel\GerarExcel\obj\Debug\GerarExcel.csproj.CopyComplete
+C:\Users\Samuel Ferreira\source\repos\GerarExcel\GerarExcel\obj\Debug\GerarExcel.exe
+C:\Users\Samuel Ferreira\source\repos\GerarExcel\GerarExcel\obj\Debug\GerarExcel.pdb
+C:\GerarExcel\GerarExcel\bin\Debug\GerarExcel.exe.config
+C:\GerarExcel\GerarExcel\bin\Debug\GerarExcel.exe
+C:\GerarExcel\GerarExcel\bin\Debug\GerarExcel.pdb
+C:\GerarExcel\GerarExcel\bin\Debug\EPPlus.dll
+C:\GerarExcel\GerarExcel\bin\Debug\EPPlus.xml
+C:\GerarExcel\GerarExcel\obj\Debug\GerarExcel.csprojAssemblyReference.cache
+C:\GerarExcel\GerarExcel\obj\Debug\GerarExcel.csproj.CoreCompileInputs.cache
+C:\GerarExcel\GerarExcel\obj\Debug\GerarExcel.csproj.CopyComplete
+C:\GerarExcel\GerarExcel\obj\Debug\GerarExcel.exe
+C:\GerarExcel\GerarExcel\obj\Debug\GerarExcel.pdb
